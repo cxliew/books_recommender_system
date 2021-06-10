@@ -101,7 +101,7 @@ Out of the 7 models built for personalized recommendation, the singular value de
 As such, we will recommend this singular value decomposition model recommender system to be employed as our book recommender system as a solution to our challenges identified in our problem statement.
 
 ---
-### Future Improvement
+### Future Work
 
 Future work that could be done is to explore more algorithms that may further improve the RMSE score.
 
